@@ -1,0 +1,426 @@
+{
+  "Ads": [
+    {
+      "banner_id":"ca-app-pub-6835069669701830/5366655247",
+      "interstitial_id": "ca-app-pub-6835069669701830/8532540912",
+      "reward_id":"ca-app-pub-6835069669701830/6509012806",
+      "natives_id":"ca-app-pub-6835069669701830/1487119987",
+      "open_app_id":"ca-app-pub-6835069669701830/9031805181",
+      "interval_interstitial":1,
+      "channel_id":"",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+],
+
+  "DATA": [
+ {
+      "title":"Bus Pandawa 87 JB3 Dream Coach",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-Dream-Coach.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3 Dream Coach by HF Project.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Livery Pandawa 87 JB3 Dream Coach by RH Project.png"
+    },
+    {
+      "title":"Bus Angga Saputro JB3 Facelift Full Acc",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.jpg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ UHD Angga Saputro Facelift Full Acc _Dop_ by MD Creation.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Subur Jaya JB3+ SHD",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-SHD.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD BUSSID JB3+ SHD by MBS Team.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Voyager Dop JB3+ MHD",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-MHD-Voyager-Dop.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+MHD Voyager Dop.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Daksina Trans JB3",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-Daksina-Trans.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3 MINION.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Po Haryanto JB3+ SHD Tsalju Reborn",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-SHD-Po.-Haryanto-Tsalju-Reborn.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD BUSSID JB3+ SHD Po Haryanto Tsalju Reborn.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Bhina Karya Jaya JB3+ Hino Rk8 R260 Angga Saputro Varian 3",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-Hino-Rk8-R260-Angga-Saputro-Varian-3.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ Hino Rk8 R260 Angga Saputro V3 by MD Creation.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Bhina Karya Jaya Biru.png"
+    },
+    {
+      "title":"Bus Agam Tungga Jaya JB3+ SHD Scania Facelift",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-SHD-Scania-Facelift.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD BUSSID JB3+ SHD SCANIA FACELIFT BY MN CVT RSM GARAGE.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Voyager RK8 JB3+ JDM Dop Bagasi",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-Voyager-RK8-JDM-Dop-Bagasi-Full.jpg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ Voyager RK8 JDM Dop Bagasi Full.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus JB3+ HDD Mesin Depan Po Haryanto",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-HDD-Mesin-Depan-Po.-Haryanto.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD BUSSID JB3+ HDD Mesin Depan Po Haryanto.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Scania K410iB Polos Voyager JB3+ Angga Saputro",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-Voyager-Angga-Saputro-Scania-K410iB-Polos.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ Voyager Angga Saputro Scania K410iB Polos 1 by MD Creation.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Scania K360iB JB3+ Kamera Penumpang",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-SHD-Scania-K360iB-Angga-Saputro-Kamera-Penumpang.jpg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ SHD Scania K360iB Angga Saputro Kamera Penumpang.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Livery STJ Cullen.png"
+    },
+    {
+      "title":"Bus Po Haryanto Ganz JB3+HDD Still Air Suspension",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3HDD-Po.-Haryanto-Ganz-Still-Air-Suspension-by-ZTOM-Edit-Aldovadewa.png",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+HDD Air Suspension by ZTOM Edit Aldovadewa Javastech.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Livery Po. Haryanto Ganz Still JB3+ HDD Edit ZTOM Aldovadewa Javastech.png"
+    },
+    {
+      "title":"Bus Angga Saputro Polos JB3+MHD",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-MHD-Angga-Saputro-Polos.jpg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ MHD Angga Saputro Polos _Ring_ by MD Creation.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Hino Rk8 R260 JB3+ Angga Saputro Varian 2",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/MOD-BUSSID-JB3-Hino-Rk8-R260-Angga-Saputro-Varian-2.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ Hino Rk8 R260 Angga Saputro V2 by MD Creation.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Bhina Karya Jaya Hijau.png"
+    },
+    {
+      "title":"Bus JB3+ Special Bumel Cirebon Style",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-Special-Cirebon-Style.jpg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ Cirebon Style by RMC Creation.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Livery Luragung Hidayah by RMP.png"
+    },
+    {
+      "title":"Bus Hino Diva JB3+ Jaya Trans",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3-Hino-Diva-Jaya-Trans.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/7. JB3 HINO.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/7. DJ 03_BY ECO CEMONG.png"
+    },
+    {
+      "title":"Bus JB3+SHD FACELIFT VOYAGER AGRA TRONTON MD",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3SHD-FACELIFT-VOYAGER-AGRA-TRONTON-MD.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/jb3+tronton SHARE BY JODS TV.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/agra JB3+SHD FACELIFT VOYAGER TRONTON MD.png"
+    },
+    {
+      "title":"Bus Tividi Aulia Reborn JB3 Hino",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Tividi-Aulia-Reborn-JB3-Hino.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/2. JB3 HINO.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/2. TIVIDI Aulia Reborn by Hanafi Hardiyan.png"
+    },
+    {
+      "title":"Bus Sinar Dempo JB3 Scania",
+      "image":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/Bus-Sinar-Dempo-JB3-Scania.jpeg",
+      "link_mods":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ SCANIA K360.bussidmod",
+      "link_livery":"https://jambox.my.id/tisna/bussidC/bussidjb3/assets/JB3+ SCANIA Livery.png"
+    },
+ {
+      "title":"Lamborghini Centenario",
+      "image":"https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Lamborghini-Centenario0A.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/MOD BUSSID Mobil Lamborghini Centenario.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Veneno",
+      "image":"https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Mobil-Lamborghini-Veneno.png",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/MOD BUSSID Mobil Lamborghini Veneno.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Estoque",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/07/Lamborghini-Estoque.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Estoque.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Terzo Millennio",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/07/Lamborghini-Terzo-Millennio-Full-Animation-cvt-Hanzoo-Mod.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Terzo Millennio Full Animation cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Murcielago SV",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/11/Lamborghini-Murcielago-SV-cvt-MAH-Channel.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Murcielago SV cvt MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"LAMBORGHINI SIAN",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/07/LAMBORGHINI-SIAN.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/LAMBORGHINI SIAN BY MAH CHANNEL_2_.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Aventador LP700-4 Dubai HS Police",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/06/Lamborghini-Aventador-LP700-4-Dubai-HS-Police-cvt-Hanzoo-Mod.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Aventador LP700-4 Dubai HS Police cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Aventador SVJ",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/06/New-Lamborghini-Aventador-SVJ.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/New Lamborghini Aventador SVJ cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Centenario LP770-4 2017",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/06/Lamborghini-Centenario-LP770-4-2017.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Centenario LP770-4 2017 cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan STO 2023",
+      "image":"https://modbussid.co.id/wp-content/uploads/2023/06/Lamborghini-Huracan-STO-2023.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Huracan STO 2023 cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan EVO Spyder",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/11/Lamborghini-Huracan-EVO-Spyder.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Huracan EVO Spyder.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Urus Venum cvt Hanzoo",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/11/Lamborghini-Urus-Venum-cvt-Hanzoo-Mod.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Urus Venum cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Galardo LP-570 LBW",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/11/Lamborghini-Galardo-LP-570-LBW-cvt-Hanzoo-Mod.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Galardo LP-570 LBW cvt Hanzoo Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini LM-002",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/10/Lamborghini-LM-002-cvt-MAH-Channel.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini LM-002 cvt MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Aventador Police",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/10/Lamborghini-Aventador-Police.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Aventador Police cvt MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Urus SV",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/09/Lamborghini-Urus-SV.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Urus SV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan Performante 2018",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/11/MOD-BUSSID-Mobil-Lamborghini-Huracan-Performante-2018-by-SHDRU-cvt-MAH-Channel.jpg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/MOD BUSSID Mobil Lamborghini Huracan Performante 2018 by SHDRU cvt MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Diablo",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/09/Lamborghini-Diablo-SV-by-XmodsXsaq.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Diablo SV by XmodsXsa.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Centenario LP770-4 Full Carbon",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/09/Lamborghini-Centenario-LP770-4-Full-Carbon.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Centenario LP770-4 Full Carbon.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Murcielago LP640 Roadster",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/09/Lamborghini-murcielago-roadster.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Murcielago LP640 Roadster_2_.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Aventador SV",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/09/Lamborghini-Aventador-SV.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Aventador SV by NGR, Tonebee.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Essenza SCV12",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/08/Lamborghini-Essenza-SCV12.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Essenza SCV12.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Reventon Polres",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/07/Lamborghini-Reventon-Polres.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Reventon Polres.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Gallardo LP 570-4 Police",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/07/Lamborghini-Gallardo-LP-570-4-Police.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Gallardo LP 570-4 Police .bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan Pamdem",
+      "image":"https://modbussid.co.id/wp-content/uploads/2022/07/Lamborghini-Huracan-Pamdem.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Huracan Pamdem.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini V12 Vision GT",
+      "image":"https://modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Lamborghini-V12-Vision-GT.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/MOD BUSSID Mobil Lamborghini V12 Vision GT by MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Egoista",
+      "image":"https://modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Mobil-Lamborghini-Egoista.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/MOD BUSSID Mobil Lamborghini Egoista by MAH Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Aventador",
+      "image":"https://modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Mobil-Lamborghini-Aventador.jpeg",
+      "link_mods":"https://jambox.my.id/ojan/BussidLamborghini/Assets/Mod/Lamborghini Aventador by MAH Channel.bussidmod",
+      "link_livery":""
+    },
+{
+      "title":"Truck Trailer dan Kontainer Bisa Belok",
+      "image":"https://modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-Trailer.jpeg",
+      "link_mods":"https://jambox.my.id/epul/bussidfinal/truck/hino trailer tester.bussidmod",
+      "link_livery":"https://jambox.my.id/epul/epul/bussidfinal/livery/Livery Truck Trailer PnO Ferry Masters.png"
+    },
+    {
+      "title": "Truck Oleng Canter Ayam Bodykit Samudra Nusantara",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/MOD BUSSID Truck Canter Ayam Bodykit Samudra Nusantara by Budesign.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/Livery Ayam Balap by RG Design.png"
+    },
+    {
+      "title": "Mercedes-Benz Arocs SLT 4163 8×4 Euro 6 Evergreen",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Mercedes-Benz Arocs SLT 4163 8x4 Euro 6 Evergreen cvt Hanzoo Mod.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/11/Mercedes-Benz-Arocs-SLT-4163-8x4-Euro-6-Evergreen.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Truck MAN TGX V8 Trailer",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/MAN TGX V8 Trailer V1 Turbine by MAH Channel.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Truck-MAN-TGX-V8-Trailer.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Fuso Fighter Box",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Fuso Fighter Box by Garasi SMC.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Fuso-Fighter-Box.jpg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/Livery Fuso Fighter.png"
+    },
+    {
+      "title": "MOD BUSSID Canter Laka",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter Laka by AD ISKN.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/11/Canter-Laka-1.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Hino Muatan Mobil Bisa Belok V2",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Hino 500 Trailer V2 by Budesign.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer-V2.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Peterbilt 385 Cattle Cage Trailer",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Truck Peterbilt 385 Cattle Cage Trailer.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/10/Truck-Peterbilt-385-Cattle-Cage-Trailer.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Truck Mercedes-Benz Motorhome",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/MOD BUSSID Truck Mercedes-Benz Motorhome by MAH Channel.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Truck-Mercedes-Benz-Motorhome.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": " MOD BUSSID Mercedes Benz Actros 1863",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Mercy Actros 1863 EURO6 Overload.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/10/Mercedes-Benz-Actros-1863-1.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Truck Oleng Canter STD",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter STD by MAH Channel.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/Canter-STD.jpg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Truk Isuzu Giga Tangki CPO",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/ISUZU GIGA.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2022/07/Truk-Isuzu-Giga-Tangki-CPO.jpeg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/ISUZU GIGA NO PW.png"
+    },
+    {
+      "title": "Truck UD Quester Bak Muat Kayu",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/MOD BUSSID Truck UD Quester Bak Muat Kayu by X Play Kembar.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/Livery UD Quester Bak Muat Kayu by Kembar Concept.png"
+    },
+    {
+      "title": "MOD BUSSID Truck Oleng Canter Black Team Gold",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter Black Team Gold by Mukhlas Po.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Black-Team-Gold.jpeg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/Livery Black Team Gold Terpal Gayor by X Play Kembar.png"
+    },
+    {
+      "title": "MOD BUSSID Truck Oleng Canter Selinda Garage",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter Selinda Garage by Ghoni Rk.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Selinda-Garage.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "Truck Oleng Canter New Selinda Terpal Gayor",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter New Selinda Terpal Gayor by RMC Creation.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-New-Selinda-Terpal-Gayor.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Truck Trailer Peluncur Roket",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/MOD BUSSID Truck Trailer Peluncur Roket.bussidvehicle",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Trailer-Peluncur-Roket.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD BUSSID Canter Trending Topic Terpal Gayor",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter Trending Topic Terpal Gayor by Gaming Ganteng.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Canter-Trending-Topic-Terpal-Gayor.jpeg",
+      "link_livery": "https://jambox.my.id/epul/epul/bussidfinal/livery/Livery Trending Topic by LfDesign.png"
+    },
+    {
+      "title": "MOD BUSSID Canter GT86 Malika Ceper Ban",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter GT86 Malika by Budesign.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Canter-GT86-Malika.jpeg",
+      "link_livery": ""
+    },
+    {
+      "title": "MOD Truck Oleng Canter Restu Bunda + Garasi",
+      "link_mods": "https://jambox.my.id/epul/bussidfinal/truck/Canter Restu Bunda + Garasi by Budesign TM.bussidmod",
+      "image": "https://modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Canter-Restu-Bunda-Garasi.jpeg",
+      "link_livery": ""
+    }
+  ]
+}
